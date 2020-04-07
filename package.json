@@ -1,0 +1,11 @@
+{
+  "name": "webpack-custom-plugin-and-loader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "clean-webpack-plugin": "^3.0.0",
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11"
+  }
+}
